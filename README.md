@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olufunsho-Bolutife
-- 👀 I’m interested in cloud Engineering infrastructures
-- 🌱 I’m currently learning linux for cloud computing
+- 👀 I’m a Cloud Engineer
+- 🌱 I’m currently training as an AWS Solutions architect
 - 💞️ I’m looking to collaborate on slack
 - 📫 How to reach me 07063822743
 
